@@ -1,2 +1,2 @@
-# internship-teask2
+# internship-task2
 Netflix Homepage
